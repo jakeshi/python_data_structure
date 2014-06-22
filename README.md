@@ -1,4 +1,7 @@
 python_data_structure
 =====================
 
-implement basis structure in python
+implement basic structure in python
+
+you can contact me at jakehku@gmail.com
+or follow me on twitter: @jake_shi
