@@ -22,3 +22,9 @@ class Linked_List:
         
     def isEmpty(self):
         return self.head == None
+    
+    def add(self,newdata):
+        temp = Node(newdata)
+        temp.setNext(self.head)
+        self.head = temp
+        
