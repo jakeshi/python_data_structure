@@ -28,3 +28,14 @@ class Linked_List:
         temp.setNext(self.head)
         self.head = temp
         
+    def search(self,target):
+    	res = False
+    	current=self.head
+    	while not res and current!= None:
+    		if current.getData()==target:
+    			return True
+    		else:
+    			current = current.getNext()
+    	return res
+    	
+        
