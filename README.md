@@ -1,6 +1,8 @@
-python_data_structure
+Basic Python Data Structure 
 =====================
 
-implement basic structure in python
+Implement basic data structure from scratch in python:
+- linked list
+- binary tree
 
 you can contact me or follow me on twitter: @jakeshi1
