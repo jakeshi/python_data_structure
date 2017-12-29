@@ -4,5 +4,6 @@ Basic Python Data Structure
 Implement basic data structure from scratch in python:
 - linked list
 - binary tree
+- hash table
 
-you can contact me or follow me on twitter: @jakeshi1
+You can contact me or follow me on twitter: @jakeshi1
